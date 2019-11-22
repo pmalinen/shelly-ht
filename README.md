@@ -1,4 +1,7 @@
 ### Shelly H&T stats
+
+![Shelly H&T](https://shelly.cloud/wp-content/uploads/2019/07/Shelly-ht_white_black_usb.png)
+
 Graphing data from Shelly H&T WiFi humidity and temperature devices on InfluxDB  and write to a InfluxDB in InfluxDB Cloud.
 
 ![Shelly H&T grafana](grafana-influx-shelly-ht.png "Grafana")
