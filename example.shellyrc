@@ -1,0 +1,9 @@
+[shelly]  
+token = <Shelly API Token>  
+devices = <comma separated list of device ids>  
+server = <shelly api server>  
+[influx]  
+server = <influx server>  
+token = <influx api token>  
+org = <org name>  
+bucket = <bucket name> 
